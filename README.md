@@ -31,10 +31,10 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 - [Shotcut](https://shotcut.org/) - Free, cross-platform video editor.
 
 ### Programmatic Video
-- [MoviePy](https://github.com/Zulko/moviepy) - Python library for video editing.
-- [Editly](https://github.com/mifi/editly) - Declarative video editing via CLI.
 - [Auto-Editor](https://github.com/WyattBlue/auto-editor) - Automatically edit video by removing silence.
+- [Editly](https://github.com/mifi/editly) - Declarative video editing via CLI.
 - [FFmpeg](https://ffmpeg.org/) - Command-line tool for video/audio processing.
+- [MoviePy](https://github.com/Zulko/moviepy) - Python library for video editing.
 
 ### Browser-Based
 - [Clipchamp](https://clipchamp.com/) - Browser-based video editor (Microsoft).
@@ -61,9 +61,9 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 - [Zencastr](https://zencastr.com/) - Remote podcast recording.
 
 ### Hosting & Distribution
+- [Anchor](https://anchor.fm/) - Free podcast hosting by Spotify.
 - [Audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server.
 - [Podcastfy](https://github.com/souzatharsis/podcastfy) - AI podcast generation.
-- [Anchor](https://anchor.fm/) - Free podcast hosting by Spotify.
 
 ### Audio Enhancement
 - [Adobe Podcast](https://podcast.adobe.com/) - AI audio enhancement.
@@ -77,24 +77,24 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 - [VDO.Ninja](https://vdo.ninja/) - Bring remote guests into your stream.
 
 ### Bots & Automation
-- [PhantomBot](https://github.com/PhantomBot/PhantomBot) - Twitch chat bot.
 - [Nightbot](https://nightbot.tv/) - Cloud-based chat bot for Twitch/YouTube.
+- [PhantomBot](https://github.com/PhantomBot/PhantomBot) - Twitch chat bot.
 - [StreamElements](https://streamelements.com/) - Streaming tools and chat bot.
 
 ### Alerts & Overlays
-- [Streamlabs](https://streamlabs.com/) - Stream alerts and overlays.
 - [StreamElements](https://streamelements.com/) - Free overlays and alerts.
+- [Streamlabs](https://streamlabs.com/) - Stream alerts and overlays.
 
 ## Social Media Management
 
 ### Scheduling & Publishing
-- [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media scheduler.
 - [Buffer](https://buffer.com/) - Social media scheduling.
 - [Later](https://later.com/) - Visual social media planner.
+- [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media scheduler.
 
 ### Cross-Posting
-- [TikToka Studio Uploader](https://github.com/nicholasdly/tiktoka-studio-uploader) - Bulk upload to TikTok.
 - [Repurpose.io](https://repurpose.io/) - Auto-publish to multiple platforms.
+- [TikToka Studio Uploader](https://github.com/nicholasdly/tiktoka-studio-uploader) - Bulk upload to TikTok.
 
 ## Analytics & Insights
 
@@ -106,10 +106,10 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 ## Monetization
 
 ### Membership & Subscriptions
-- [Ghost](https://github.com/TryGhost/Ghost) - Open-source publishing with memberships.
-- [Ko-fi](https://ko-fi.com/) - Donations and memberships.
 - [Buy Me a Coffee](https://www.buymeacoffee.com/) - Support from fans.
+- [Ghost](https://github.com/TryGhost/Ghost) - Open-source publishing with memberships.
 - [Gumroad](https://gumroad.com/) - Sell digital products.
+- [Ko-fi](https://ko-fi.com/) - Donations and memberships.
 
 ### Sponsorships
 - [Passionfruit](https://passionfroot.me/) - Sponsorship management.
@@ -133,8 +133,8 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 ## AI Content Tools
 
 ### Video
-- [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI video translation and dubbing.
 - [AI-Shorts-Creator](https://github.com/nicholasdly/AI-Shorts-Creator) - Generate short-form content with AI.
+- [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI video translation and dubbing.
 
 ### Writing
 - [Writing Helper](https://github.com/nicholasdly/writing-helper) - AI writing assistant.
