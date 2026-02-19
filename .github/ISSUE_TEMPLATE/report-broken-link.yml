@@ -1,0 +1,40 @@
+name: 🔗 Report Broken Link
+description: Report a broken or outdated link
+title: "[Broken Link]: "
+labels: ["bug", "broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found a broken link? Let us know!
+
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: Which tool has the broken link?
+      placeholder: e.g., StreamYard
+    validations:
+      required: true
+
+  - type: input
+    id: broken-url
+    attributes:
+      label: Broken URL
+      description: The URL that is not working
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: suggested-url
+    attributes:
+      label: Suggested Replacement URL
+      description: If you know the correct URL, please provide it
+      placeholder: https://...
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Any other relevant information

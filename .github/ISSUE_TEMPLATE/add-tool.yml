@@ -1,0 +1,75 @@
+name: 🛠️ Suggest a Tool
+description: Suggest a new tool to be added to the list
+title: "[Tool]: "
+labels: ["suggestion", "tool"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a tool! Please fill out the information below.
+
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: What is the name of the tool?
+      placeholder: e.g., StreamYard
+    validations:
+      required: true
+
+  - type: input
+    id: tool-url
+    attributes:
+      label: Tool URL
+      description: Link to the tool's website or GitHub repository
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this tool belong to?
+      options:
+        - Video Creation & Editing
+        - Thumbnail & Graphics
+        - Audio & Podcasting
+        - Live Streaming
+        - Social Media Management
+        - Analytics & Insights
+        - Monetization
+        - Link in Bio
+        - Newsletter & Email
+        - AI Content Tools
+        - Community & Engagement
+        - SEO & Discovery
+        - Productivity
+        - Other (please specify)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of what the tool does (keep it under 100 characters)
+      placeholder: AI-powered video editing for creators.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: features
+    attributes:
+      label: Tool Features
+      options:
+        - label: Open Source
+        - label: Free Tier Available
+        - label: Actively Maintained
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Any other relevant information about the tool
+      placeholder: Why should this tool be included?

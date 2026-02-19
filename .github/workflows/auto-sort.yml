@@ -1,0 +1,71 @@
+name: Auto Sort & Format
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sort-and-format:
+    name: Sort Entries Alphabetically
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sort README entries
+        run: |
+          python << 'EOF'
+          import re
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Pattern to match sections with list items
+          section_pattern = r'(## [^\n]+\n(?:### [^\n]+\n)?)((?:- \[.+?\n)+)'
+
+          def sort_section(match):
+              header = match.group(1)
+              items = match.group(2)
+              # Split into lines, sort alphabetically (case-insensitive), rejoin
+              lines = [l for l in items.strip().split('\n') if l.strip()]
+              sorted_lines = sorted(lines, key=lambda x: x.lower())
+              return header + '\n'.join(sorted_lines) + '\n'
+
+          # Sort each section
+          sorted_content = re.sub(section_pattern, sort_section, content)
+
+          with open('README.md', 'w') as f:
+              f.write(sorted_content)
+
+          print("Sorted README.md entries alphabetically")
+          EOF
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🤖 Auto-sort entries alphabetically"
+          git push
