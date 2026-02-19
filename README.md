@@ -59,9 +59,6 @@ _Design tools for thumbnails, channel art, and social graphics._
   - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generator trained on licensed content. Built into Photoshop.
   - [FLUX](https://github.com/black-forest-labs/flux) - Open-weight AI image models from the original Stable Diffusion team. Run locally for free.
   - [Midjourney](https://www.midjourney.com/) - AI image generation with photorealistic output. Many creators use it for thumbnail concepts.
-- Generators
-  - [ThumbsUp](https://github.com/nicholasdly/thumbs-up) - Generate thumbnails with AI.
-  - [Video Thumbnail Generator](https://github.com/nicholasdly/video-thumbnail-generator) - Extract frames from videos as thumbnails.
 
 ## Audio & Podcasting
 
@@ -129,8 +126,7 @@ _Understand your audience and track growth._
   - [ViewStats](https://www.viewstats.com/) - YouTube trend discovery and outlier analysis, co-founded by MrBeast.
 - Web Analytics
   - [Plausible Analytics](https://github.com/plausible/analytics) - Privacy-focused, lightweight web analytics. No cookies needed.
-  - [Trench](https://github.com/frigade/trench) - Open-source event analytics.
-  - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
+    - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
 
 ## Monetization
 
@@ -156,7 +152,6 @@ _Turn your audience into income._
 _Landing pages for your social profiles._
 
 - [Dub](https://github.com/dubinc/dub) - Open-source link management with analytics and conversion tracking.
-- [LibreLinks](https://github.com/nicholasdly/librelinks) - Self-hosted Linktree alternative.
 - [LinkStack](https://github.com/linkstackorg/linkstack) - Self-hosted link-in-bio with admin panel, themes, and multi-user support.
 - [Linktree](https://linktr.ee/) - The original. Free tier available.
 - [OneLink](https://github.com/nicholasdly/onelink) - Open-source link in bio.
