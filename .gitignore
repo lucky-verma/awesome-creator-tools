@@ -1,0 +1,13 @@
+# Local research (private)
+research/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
