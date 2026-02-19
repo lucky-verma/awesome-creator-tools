@@ -73,17 +73,13 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 
 ### Software
 - [OBS Studio](https://obsproject.com/) - Free, open-source streaming software.
-- [Streamlabs](https://streamlabs.com/) - Streaming with built-in alerts and themes.
+- [Streamlabs](https://streamlabs.com/) - Streaming software with built-in alerts, overlays, and themes.
 - [VDO.Ninja](https://vdo.ninja/) - Bring remote guests into your stream.
 
 ### Bots & Automation
 - [Nightbot](https://nightbot.tv/) - Cloud-based chat bot for Twitch/YouTube.
 - [PhantomBot](https://github.com/PhantomBot/PhantomBot) - Twitch chat bot.
-- [StreamElements](https://streamelements.com/) - Streaming tools and chat bot.
-
-### Alerts & Overlays
-- [StreamElements](https://streamelements.com/) - Free overlays and alerts.
-- [Streamlabs](https://streamlabs.com/) - Stream alerts and overlays.
+- [StreamElements](https://streamelements.com/) - Streaming tools, chat bot, overlays, and alerts.
 
 ## Social Media Management
 
@@ -99,15 +95,14 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 ## Analytics & Insights
 
 - [Social Blade](https://socialblade.com/) - Public stats for YouTube, Twitch, more.
-- [VidIQ](https://vidiq.com/) - YouTube analytics and SEO.
-- [TubeBuddy](https://www.tubebuddy.com/) - YouTube channel management.
+- [VidIQ](https://vidiq.com/) - YouTube analytics, SEO, and keyword research.
+- [TubeBuddy](https://www.tubebuddy.com/) - YouTube channel management, SEO, and optimization.
 - [Trench](https://github.com/frigade/trench) - Open-source analytics.
 
 ## Monetization
 
 ### Membership & Subscriptions
 - [Buy Me a Coffee](https://www.buymeacoffee.com/) - Support from fans.
-- [Ghost](https://github.com/TryGhost/Ghost) - Open-source publishing with memberships.
 - [Gumroad](https://gumroad.com/) - Sell digital products.
 - [Ko-fi](https://ko-fi.com/) - Donations and memberships.
 
@@ -124,7 +119,7 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 
 ## Newsletter & Email
 
-- [Ghost](https://github.com/TryGhost/Ghost) - Open-source publishing platform.
+- [Ghost](https://github.com/TryGhost/Ghost) - Open-source publishing platform with memberships and monetization.
 - [Listmonk](https://github.com/knadh/listmonk) - Self-hosted newsletter manager.
 - [BillionMail](https://github.com/billionmail/BillionMail) - Self-hosted email marketing.
 - [Buttondown](https://buttondown.email/) - Simple newsletter service.
@@ -151,8 +146,6 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 
 ## SEO & Discovery
 
-- [VidIQ](https://vidiq.com/) - YouTube SEO tools.
-- [TubeBuddy](https://www.tubebuddy.com/) - YouTube optimization.
 - [Keyword Tool](https://keywordtool.io/) - Keyword research for YouTube.
 
 ## Productivity
@@ -167,6 +160,3 @@ Whether you're a YouTuber, TikToker, Twitch streamer, podcaster, or newsletter w
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
