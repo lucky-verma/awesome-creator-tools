@@ -195,6 +195,7 @@ _Automate parts of your workflow with AI._
 - Image & Workflows
   - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
 - Writing
+  - [Creator Skills](https://creatorskills.co/) - Marketplace of ready-to-use AI skill systems for thumbnails, scripts, audience research, analytics, and content repurposing across Claude, ChatGPT, Claude Code, and Cursor.
   - [Writing Helper](https://github.com/nicholasdly/writing-helper) - AI writing assistant.
 
 ## Community & Engagement
