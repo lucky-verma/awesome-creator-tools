@@ -82,6 +82,7 @@ _Recording, editing, hosting, and distribution for podcasters._
   - [Transistor.fm](https://transistor.fm/) - Podcast hosting with unlimited shows and private podcasting support.
 - Music & Sound Effects
   - [Epidemic Sound](https://www.epidemicsound.com/) - Royalty-free music and sound effects with direct licensing for creators.
+  - [FreeMusicLab.ai](https://freemusiclab.ai) - Free AI-generated music library with 2,000+ royalty-free tracks and developer API.
   - [Freesound](https://freesound.org/) - Collaborative library of 700K+ Creative Commons sound samples.
   - [Uppbeat](https://uppbeat.io/) - Curated royalty-free music with a generous free tier.
 - Enhancement
