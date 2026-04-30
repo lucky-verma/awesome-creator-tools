@@ -120,6 +120,8 @@ _Schedule, publish, and manage content across platforms._
   - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media tool with 20+ integrations, built-in design editor, and AI content generation.
 - Cross-Posting
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
+- Content Downloading
+  - [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Analytics & Insights
 
