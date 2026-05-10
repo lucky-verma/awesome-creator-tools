@@ -209,6 +209,7 @@ _Automate parts of your workflow with AI._
   - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Open-source subtitle editor with built-in Whisper. Runs locally, 99 languages, unlimited.
 - Image & Workflows
   - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
+  - [ZSky AI](https://zsky.ai) - Free unlimited AI image and video generation. SDXL, FLUX, WAN, Krea, LTX models. 100K+ creators. No credit caps.
 
 ## Community & Engagement
 
