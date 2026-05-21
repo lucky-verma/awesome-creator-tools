@@ -191,6 +191,7 @@ _Automate parts of your workflow with AI._
   - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. 60 min/month free.
   - [Pika](https://pika.art/) - AI video generation with expression sync and audio-reactive animation.
   - [Runway](https://runwayml.com/) - Text-to-video and image-to-video generation. Used in professional film production.
+  - [Seedance AI](https://seedance2.cloud/) - Cinematic AI video generation powered by Seedance 2.0. 1080p text-to-video and image-to-video with motion control and reference image support. Freemium.
   - [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI translation and dubbing for videos.
   - [Wan](https://github.com/Wan-Video) - Open-source video generation (Apache 2.0). Text-to-video, image-to-video, even speech-to-video for digital humans.
 - Voice
