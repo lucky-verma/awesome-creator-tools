@@ -209,6 +209,8 @@ _Automate parts of your workflow with AI._
   - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Open-source subtitle editor with built-in Whisper. Runs locally, 99 languages, unlimited.
 - Image & Workflows
   - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
+- Skills & Prompts
+  - [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude, ChatGPT, and other AI platforms.
 
 ## Community & Engagement
 
