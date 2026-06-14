@@ -37,6 +37,7 @@ _Tools for recording, editing, and producing video content._
   - [FFmpeg](https://ffmpeg.org/) - The backbone of video processing. Handles encoding, transcoding, and streaming.
   - [MoviePy](https://github.com/Zulko/moviepy) - Python library for video editing and compositing.
   - [Remotion](https://github.com/remotion-dev/remotion) - Create videos programmatically using React. Popular for automated YouTube content.
+  - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Render 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
 - Browser-Based
   - [Clipchamp](https://clipchamp.com/) - Microsoft's browser editor with stock assets and templates.
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
