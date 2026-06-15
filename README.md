@@ -118,6 +118,7 @@ _Schedule, publish, and manage content across platforms._
   - [Metricool](https://metricool.com/) - Scheduling, analytics, and ad management across all major platforms. Free tier.
   - [Mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management. No limits, no subscriptions, you own your data.
   - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media tool with 20+ integrations, built-in design editor, and AI content generation.
+  - [Xquik](https://xquik.com/) - X automation platform for publishing, monitoring, exports, webhooks, REST API, and MCP.
 - Cross-Posting
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
 
