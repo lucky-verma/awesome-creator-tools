@@ -145,6 +145,7 @@ _Turn your audience into income._
   - [Patreon](https://www.patreon.com/) - The original membership platform for recurring fan support and exclusive content.
 - Courses & Products
   - [CourseLit](https://github.com/codelitdev/courselit) - Open-source course platform with Stripe payments. Self-hosted Teachable alternative.
+  - [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) - Free Excel/CSV ledger for orders, costs, refunds, and margins.
   - [Fourthwall](https://fourthwall.com/) - Merch, storefronts, and memberships. Used by MKBHD and other top creators.
   - [Kajabi](https://www.kajabi.com/) - All-in-one for courses, coaching, memberships, and newsletters.
   - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments and tax handling for digital products across 135+ countries.
