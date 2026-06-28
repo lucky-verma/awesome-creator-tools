@@ -126,6 +126,7 @@ _Schedule, publish, and manage content across platforms._
 _Understand your audience and track growth._
 
 - Creator Analytics
+  - [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Download public YouTube comments as CSV for audience insights.
   - [Social Blade](https://socialblade.com/) - Public stats for any YouTube, Twitch, or Instagram account.
   - [TubeBuddy](https://www.tubebuddy.com/) - Browser extension for YouTube optimization and bulk tools.
   - [VidIQ](https://vidiq.com/) - YouTube analytics, keyword research, and competitor tracking.
