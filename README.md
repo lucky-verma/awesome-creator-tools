@@ -207,6 +207,7 @@ _Automate parts of your workflow with AI._
 - Captions
   - [Stable-ts](https://github.com/jianfch/stable-ts) - Improved Whisper timestamps for accurate subtitles. Exports SRT, VTT, and ASS.
   - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Open-source subtitle editor with built-in Whisper. Runs locally, 99 languages, unlimited.
+  - [TimedSubs](https://timedsubs.com/en/tools/subtitle-checker) - Browser-local SRT/VTT checker with safe line-wrap repair.
 - Image & Workflows
   - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
 
