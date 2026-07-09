@@ -55,6 +55,7 @@ _Design tools for thumbnails, channel art, and social graphics._
 - [GIMP](https://www.gimp.org/) - Open-source image editor with professional features.
 - [Photopea](https://www.photopea.com/) - Free Photoshop alternative that runs in browser. No account needed.
 - [Remove.bg](https://www.remove.bg/) - AI background removal for thumbnails.
+- [TextFaker](https://github.com/IgorShadurin/textfaker.com) - Open-source generator for text message screenshots and social mockups.
 - [Unsplash](https://unsplash.com/) - Beautiful free stock photos, no attribution required.
 - AI Image Generation
   - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generator trained on licensed content. Built into Photoshop.
