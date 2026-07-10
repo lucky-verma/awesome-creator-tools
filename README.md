@@ -49,6 +49,7 @@ _Tools for recording, editing, and producing video content._
 
 _Design tools for thumbnails, channel art, and social graphics._
 
+- [App Doodler](https://github.com/IgorShadurin/app-doodler) - Free, open-source generator for multilingual App Store screenshots and ASO graphics.
 - [Canva](https://www.canva.com/) - Template-based design with YouTube thumbnail presets.
 - [ClipDrop](https://clipdrop.co/) - AI image editing suite with background removal, cleanup, relighting, and uncrop.
 - [Figma](https://www.figma.com/) - Professional design tool, free for individuals.
