@@ -162,6 +162,7 @@ _Turn your audience into income._
 _Landing pages for your social profiles._
 
 - [Dub](https://github.com/dubinc/dub) - Open-source link management with analytics and conversion tracking.
+- [Encer](https://encer.me/en) - Interactive link-in-bio pages with polls, messages, giveaways, live updates, and analytics.
 - [LinkStack](https://github.com/linkstackorg/linkstack) - Self-hosted link-in-bio with admin panel, themes, and multi-user support.
 - [Linktree](https://linktr.ee/) - The original. Free tier available.
 - [LittleLink](https://github.com/techno-tim/littlelink-server) - Lightweight open-source link page. Docker-ready, 100+ branded buttons.
