@@ -186,6 +186,7 @@ _Build an audience you own._
 _Automate parts of your workflow with AI._
 
 - Video
+  - [CreateFaceless](https://createfaceless.com/en) - Generates faceless YouTube Shorts from script to exportable MP4, no editing experience required.
   - [HeyGen](https://www.heygen.com/) - AI avatar videos and video translation with lip-sync dubbing.
   - [Kling AI](https://klingai.com/) - Text-to-video with camera movement control, lip sync, and motion effects. Most generous free tier (66 daily credits).
   - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. 60 min/month free.
