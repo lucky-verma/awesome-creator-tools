@@ -232,6 +232,7 @@ _Get found on YouTube and search engines._
 - [Google Trends](https://trends.google.com/) - Compare search interest over time. Has a YouTube-specific filter.
 - [Keyword Tool](https://keywordtool.io/) - Keyword research for YouTube, Google, and more.
 - [RapidTags](https://rapidtags.io/) - Generate optimized YouTube tags from a video title or keyword.
+- [Screpy](https://screpy.com/) - Audits creator sites and tracks keyword rankings in Google search.
 - [Semrush](https://www.semrush.com/) - Comprehensive keyword research, backlink analysis, and competitive SEO.
 - [Surfer SEO](https://surferseo.com/) - Real-time content scoring and optimization for search rankings.
 
