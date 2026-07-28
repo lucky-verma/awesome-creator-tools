@@ -133,6 +133,7 @@ _Understand your audience and track growth._
 - Web Analytics
   - [Plausible Analytics](https://github.com/plausible/analytics) - Privacy-focused, lightweight web analytics. No cookies needed.
     - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
+- [Trends MCP](https://trendsmcp.ai) - Cross-platform trend discovery API for creators (YouTube, TikTok, Google, Spotify).
 
 ## Monetization
 
