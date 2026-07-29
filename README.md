@@ -233,6 +233,7 @@ _Get found on YouTube and search engines._
 - [Keyword Tool](https://keywordtool.io/) - Keyword research for YouTube, Google, and more.
 - [RapidTags](https://rapidtags.io/) - Generate optimized YouTube tags from a video title or keyword.
 - [Semrush](https://www.semrush.com/) - Comprehensive keyword research, backlink analysis, and competitive SEO.
+- [RawSignal](https://rawsignalai.com/) - Independent hand-tested research and comparisons for AI and creator-operations tools (methodology published; free-tier evidence).
 - [Surfer SEO](https://surferseo.com/) - Real-time content scoring and optimization for search rankings.
 
 ## Productivity
