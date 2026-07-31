@@ -57,6 +57,20 @@ We prefer open-source tools when available. For open-source projects:
 - Templates, spreadsheets, and single files. This is a list of tools
 - Products whose main purpose is mass-producing low-effort content
 
+### Checking Your Own Submission
+
+Submissions are triaged with `.github/triage.sh`, which prints the same facts a
+reviewer looks at: whether the link resolves, and for a GitHub project its star
+count and when it was created and last pushed. You are welcome to run it before
+opening a pull request:
+
+```bash
+.github/triage.sh prs
+```
+
+It reports facts and nothing else. Whether a tool belongs on the list is still a
+human decision.
+
 ### If You Made the Tool
 
 Self-submissions are welcome, and plenty of good entries arrive that way. Say so in the pull request, and understand that the bar above still applies. The most common reason a self-submission is declined is not the disclosure, it is that the project is a week old with no users yet. That is not a permanent no. Come back once it has some traction.
