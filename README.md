@@ -27,6 +27,7 @@ _Tools for recording, editing, and producing video content._
 - Desktop Editors
   - [CapCut](https://www.capcut.com/) - Free editor from ByteDance with AI captions, templates, and effects. Dominant among short-form creators.
   - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional editing, color grading, and effects. Free version is genuinely powerful.
+  - [HandBrake](https://handbrake.fr/) - Open-source video transcoder. Compress finished exports before upload without a visible quality drop.
   - [Kdenlive](https://kdenlive.org/) - Open-source editor with multi-track timeline and broad format support.
   - [LosslessCut](https://github.com/mifi/lossless-cut) - Fast, lossless trimming and cutting without re-encoding.
   - [OpenShot](https://www.openshot.org/) - Simple open-source editor, good for beginners.
@@ -44,6 +45,7 @@ _Tools for recording, editing, and producing video content._
   - [VEED.io](https://www.veed.io/) - Browser-based editor with auto-subtitles, AI avatars, and team collaboration.
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
+  - [ShareX](https://github.com/ShareX/ShareX) - Windows screen capture and recording with annotation, workflows, and upload automation.
 
 ## Thumbnail & Graphics
 
@@ -51,11 +53,14 @@ _Design tools for thumbnails, channel art, and social graphics._
 
 - [Canva](https://www.canva.com/) - Template-based design with YouTube thumbnail presets.
 - [ClipDrop](https://clipdrop.co/) - AI image editing suite with background removal, cleanup, relighting, and uncrop.
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - Hand-drawn style whiteboard for diagrams and explainer visuals. Runs in the browser.
 - [Figma](https://www.figma.com/) - Professional design tool, free for individuals.
 - [GIMP](https://www.gimp.org/) - Open-source image editor with professional features.
 - [Photopea](https://www.photopea.com/) - Free Photoshop alternative that runs in browser. No account needed.
+- [rembg](https://github.com/danielgatis/rembg) - Local background removal from the command line or Python. No upload, no per-image cost.
 - [Remove.bg](https://www.remove.bg/) - AI background removal for thumbnails.
 - [Unsplash](https://unsplash.com/) - Beautiful free stock photos, no attribution required.
+- [Upscayl](https://github.com/upscayl/upscayl) - AI image upscaler that runs locally. Rescues low-resolution stills for thumbnails.
 - AI Image Generation
   - [Adobe Firefly](https://firefly.adobe.com/) - AI image generator trained on licensed content. Built into Photoshop.
   - [FLUX](https://github.com/black-forest-labs/flux) - Open-weight AI image models from the original Stable Diffusion team. Run locally for free.
@@ -131,6 +136,7 @@ _Understand your audience and track growth._
   - [VidIQ](https://vidiq.com/) - YouTube analytics, keyword research, and competitor tracking.
   - [ViewStats](https://www.viewstats.com/) - YouTube trend discovery and outlier analysis, co-founded by MrBeast.
 - Web Analytics
+  - [Matomo](https://github.com/matomo-org/matomo) - Self-hosted analytics with full data ownership. Google Analytics replacement.
   - [Plausible Analytics](https://github.com/plausible/analytics) - Privacy-focused, lightweight web analytics. No cookies needed.
   - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
 
@@ -200,6 +206,7 @@ _Automate parts of your workflow with AI._
   - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Open-source voice cloning from just 5 seconds of audio. Supports cross-lingual inference.
   - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning with granular control over style, emotion, and accent. MIT license.
   - [Whisper](https://github.com/openai/whisper) - OpenAI's speech-to-text. Runs locally, very accurate.
+  - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Whisper in plain C/C++. Much faster on CPU and runs on modest hardware.
 - Music
   - [ACE-Step](https://github.com/ACE-Step/ACE-Step) - Open-source music generation model. Fast, multilingual, supports lyrics and voice cloning.
   - [Suno](https://suno.com/) - Generate full songs with vocals from a text prompt. Free tier with daily credits.
