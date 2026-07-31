@@ -1,0 +1,21 @@
+# Configuration for the lychee link checker (see .github/workflows/ci.yml).
+#
+# Many live, healthy sites sit behind bot protection that answers automated
+# requests with 401/403/429 while serving humans normally. Treating those as
+# broken links made the weekly scheduled run fail on false positives, which
+# trains everyone to ignore the check. These settings keep the job meaningful:
+# it should fail only when a link is genuinely gone.
+
+# Codes returned by bot-protection layers on verified-live sites.
+accept = ["200..=299", "401", "403", "429"]
+
+# Identify as a normal browser; the default agent is blocked more often.
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+# Rate limiters need room to breathe, and some hosts are slow under load.
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+
+# Be gentle so we do not trigger rate limiting ourselves.
+max_concurrency = 8
