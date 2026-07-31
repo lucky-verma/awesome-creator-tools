@@ -40,7 +40,7 @@ _Tools for recording, editing, and producing video content._
 - Browser-Based
   - [Clipchamp](https://clipchamp.com/) - Microsoft's browser editor with stock assets and templates.
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
-  - [OpenCut](https://github.com/OpenCut-app/) - Open-source browser-based editor. Files never leave your machine.
+  - [OpenCut](https://github.com/OpenCut-app/OpenCut) - Open-source browser-based editor. Files never leave your machine.
   - [VEED.io](https://www.veed.io/) - Browser-based editor with auto-subtitles, AI avatars, and team collaboration.
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
@@ -57,10 +57,10 @@ _Design tools for thumbnails, channel art, and social graphics._
 - [Remove.bg](https://www.remove.bg/) - AI background removal for thumbnails.
 - [Unsplash](https://unsplash.com/) - Beautiful free stock photos, no attribution required.
 - AI Image Generation
-  - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generator trained on licensed content. Built into Photoshop.
+  - [Adobe Firefly](https://firefly.adobe.com/) - AI image generator trained on licensed content. Built into Photoshop.
   - [FLUX](https://github.com/black-forest-labs/flux) - Open-weight AI image models from the original Stable Diffusion team. Run locally for free.
-  - [Ideogram](https://ideogram.ai/) - AI image generation that actually renders text correctly. 95%+ spelling accuracy, free tier with 40 images/week.
-  - [Leonardo AI](https://leonardo.ai/) - 150 free tokens daily with commercial rights. Good all-rounder.
+  - [Ideogram](https://ideogram.ai/) - AI image generation with unusually reliable text rendering. Useful for thumbnails with words in them. Free tier available.
+  - [Leonardo AI](https://leonardo.ai/) - AI image generation with a daily free credit allowance. Good all-rounder.
   - [Midjourney](https://www.midjourney.com/) - AI image generation with photorealistic output. Many creators use it for thumbnail concepts.
 
 ## Audio & Podcasting
@@ -70,19 +70,19 @@ _Recording, editing, hosting, and distribution for podcasters._
 - Recording & Editing
   - [Audacity](https://www.audacityteam.org/) - Open-source audio editor. Been around forever, still works great.
   - [Descript](https://www.descript.com/) - Edit audio and video by editing text. Includes transcription, filler word removal, and overdub.
-  - [Riverside](https://riverside.fm/) - High-quality remote recording with separate tracks per guest.
+  - [Riverside](https://riverside.com/) - High-quality remote recording with separate tracks per guest.
   - [Zencastr](https://zencastr.com/) - Remote podcast recording with free tier.
 - Hosting & Distribution
-  - [Castopod](https://castopod.org/) - Open-source podcast hosting with Fediverse integration and built-in monetization.
   - [Audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-host your podcast and audiobook library.
   - [Buzzsprout](https://www.buzzsprout.com/) - Beginner-friendly hosting with AI mastering and auto-generated show notes.
+  - [Castopod](https://castopod.org/) - Open-source podcast hosting with Fediverse integration and built-in monetization.
   - [Podcastfy](https://github.com/souzatharsis/podcastfy) - Generate podcasts from text using AI.
   - [RedCircle](https://redcircle.com/) - Free hosting with donations and subscriptions built into the free plan.
-  - [Spotify for Creators](https://podcasters.spotify.com/) - Free unlimited hosting. Monetization at 1,000 engaged listeners.
+  - [Spotify for Creators](https://creators.spotify.com/) - Free unlimited hosting. Monetization at 1,000 engaged listeners.
   - [Transistor.fm](https://transistor.fm/) - Podcast hosting with unlimited shows and private podcasting support.
 - Music & Sound Effects
   - [Epidemic Sound](https://www.epidemicsound.com/) - Royalty-free music and sound effects with direct licensing for creators.
-  - [Freesound](https://freesound.org/) - Collaborative library of 700K+ Creative Commons sound samples.
+  - [Freesound](https://freesound.org/) - Collaborative library of Creative Commons sound samples, run by Universitat Pompeu Fabra.
   - [Uppbeat](https://uppbeat.io/) - Curated royalty-free music with a generous free tier.
 - Enhancement
   - [Adobe Podcast](https://podcast.adobe.com/) - AI-powered noise removal and enhancement.
@@ -101,7 +101,7 @@ _Software and tools for Twitch, YouTube Live, and other platforms._
   - [Streamlabs](https://streamlabs.com/) - OBS fork with built-in alerts, overlays, and themes.
   - [VDO.Ninja](https://vdo.ninja/) - Bring remote guests into your stream without downloads.
 - Bots & Automation
-  - [Bitfocus Companion](https://github.com/bitfocus/companion) - Turn a Stream Deck into a professional broadcast controller for 700+ devices.
+  - [Bitfocus Companion](https://github.com/bitfocus/companion) - Turn a Stream Deck into a professional broadcast controller for a wide range of AV hardware and software.
   - [Nightbot](https://nightbot.tv/) - Cloud chat bot for moderation and commands.
   - [PhantomBot](https://github.com/PhantomBot/PhantomBot) - Self-hosted Twitch bot with extensive customization.
   - [Streamer.bot](https://streamer.bot/) - Free stream automation with scripting, 40+ integrations, and multi-platform support.
@@ -114,10 +114,10 @@ _Schedule, publish, and manage content across platforms._
 - Scheduling
   - [Buffer](https://buffer.com/) - Simple scheduling with analytics.
   - [Later](https://later.com/) - Visual planner, strong on Instagram.
-  - [Loomly](https://loomly.com/) - Content planning, scheduling, and analytics with team collaboration.
+  - [Loomly](https://www.loomly.com/) - Content planning, scheduling, and analytics with team collaboration.
   - [Metricool](https://metricool.com/) - Scheduling, analytics, and ad management across all major platforms. Free tier.
   - [Mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management. No limits, no subscriptions, you own your data.
-  - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media tool with 20+ integrations, built-in design editor, and AI content generation.
+  - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media scheduler with a built-in design editor and AI content generation. Self-hostable Buffer alternative.
 - Cross-Posting
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
 
@@ -132,30 +132,30 @@ _Understand your audience and track growth._
   - [ViewStats](https://www.viewstats.com/) - YouTube trend discovery and outlier analysis, co-founded by MrBeast.
 - Web Analytics
   - [Plausible Analytics](https://github.com/plausible/analytics) - Privacy-focused, lightweight web analytics. No cookies needed.
-    - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
+  - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
 
 ## Monetization
 
 _Turn your audience into income._
 
 - Memberships & Tips
-  - [Buy Me a Coffee](https://www.buymeacoffee.com/) - Simple tip jar and membership platform.
+  - [Buy Me a Coffee](https://buymeacoffee.com/) - Simple tip jar and membership platform.
   - [Gumroad](https://gumroad.com/) - Sell digital products, courses, and memberships.
   - [Ko-fi](https://ko-fi.com/) - Tips, memberships, and a simple shop.
   - [Patreon](https://www.patreon.com/) - The original membership platform for recurring fan support and exclusive content.
 - Courses & Products
   - [CourseLit](https://github.com/codelitdev/courselit) - Open-source course platform with Stripe payments. Self-hosted Teachable alternative.
-  - [Fourthwall](https://fourthwall.com/) - Merch, storefronts, and memberships. Used by MKBHD and other top creators.
+  - [Fourthwall](https://fourthwall.com/) - Merch, storefronts, and memberships with no upfront cost or minimums.
   - [Kajabi](https://www.kajabi.com/) - All-in-one for courses, coaching, memberships, and newsletters.
-  - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments and tax handling for digital products across 135+ countries.
-  - [Payhip](https://payhip.com/) - Free plan with every feature unlocked. Sell digital products, courses, and memberships.
-  - [Teachable](https://teachable.com/) - Course platform for selling online classes, coaching, and downloads.
-  - [Thinkific](https://www.thinkific.com/) - The only major course platform with a real free plan. No transaction fees.
-  - [Whop](https://www.whop.com/) - Marketplace for digital products, courses, coaching, and memberships.
+  - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments and tax handling for digital products, as merchant of record. Currency support across 130+ countries.
+  - [Payhip](https://payhip.com/) - Sell digital products, courses, and memberships. Free plan with no monthly fee.
+  - [Teachable](https://www.teachable.com/) - Course platform for selling online classes, coaching, and downloads.
+  - [Thinkific](https://www.thinkific.com/) - Course platform with a free plan and no transaction fees on paid tiers.
+  - [Whop](https://whop.com/) - Marketplace for digital products, courses, coaching, and memberships.
 - Sponsorships
-  - [Collabstr](https://collabstr.com/) - Creator marketplace with 330K+ brands. Free to list, 10% fee per deal.
-  - [Passionfruit](https://passionfroot.me/) - Manage sponsor inquiries and bookings.
-  - [SponsorKit](https://github.com/antfu/sponsorkit) - Generate sponsor images for your README or website.
+  - [Collabstr](https://collabstr.com/) - Creator marketplace for brand sponsorships, with vetted creator search and escrowed payouts.
+  - [Passionfruit](https://www.passionfroot.me/) - Manage sponsor inquiries and bookings.
+  - [SponsorKit](https://github.com/antfu-collective/sponsorkit) - Generate sponsor images for your README or website.
 
 ## Link in Bio
 
@@ -164,16 +164,16 @@ _Landing pages for your social profiles._
 - [Dub](https://github.com/dubinc/dub) - Open-source link management with analytics and conversion tracking.
 - [LinkStack](https://github.com/linkstackorg/linkstack) - Self-hosted link-in-bio with admin panel, themes, and multi-user support.
 - [Linktree](https://linktr.ee/) - The original. Free tier available.
-- [LittleLink](https://github.com/techno-tim/littlelink-server) - Lightweight open-source link page. Docker-ready, 100+ branded buttons.
-- [OpenBio](https://github.com/vanxh/openbio) - Another open-source option.
+- [LittleLink](https://github.com/timothystewart6/littlelink-server) - Lightweight open-source link page. Docker-ready, 100+ branded buttons.
+- [OpenBio](https://github.com/vanxh/openbio) - Open-source link-in-bio pages with a hosted option. AGPL-3.0.
 
 ## Newsletter & Email
 
 _Build an audience you own._
 
-- [beehiiv](https://beehiiv.com/) - Newsletter platform with built-in ad network, referral system, and growth tools.
+- [beehiiv](https://www.beehiiv.com/) - Newsletter platform with built-in ad network, referral system, and growth tools.
 - [BillionMail](https://github.com/billionmail/BillionMail) - Self-hosted email marketing.
-- [Buttondown](https://buttondown.email/) - Simple newsletter tool for writers.
+- [Buttondown](https://buttondown.com/) - Simple newsletter tool for writers.
 - [Ghost](https://github.com/TryGhost/Ghost) - Open-source publishing platform with newsletters and memberships built in.
 - [Kit](https://kit.com/) - Email marketing for creators with automations, landing pages, and commerce. Formerly ConvertKit.
 - [Listmonk](https://github.com/knadh/listmonk) - Self-hosted newsletter manager. Fast and lightweight.
@@ -187,14 +187,14 @@ _Automate parts of your workflow with AI._
 
 - Video
   - [HeyGen](https://www.heygen.com/) - AI avatar videos and video translation with lip-sync dubbing.
-  - [Kling AI](https://klingai.com/) - Text-to-video with camera movement control, lip sync, and motion effects. Most generous free tier (66 daily credits).
-  - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. 60 min/month free.
+  - [Kling AI](https://kling.ai/) - Text-to-video with camera movement control, lip sync, and motion effects. Daily free credits.
+  - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. Free tier available.
   - [Pika](https://pika.art/) - AI video generation with expression sync and audio-reactive animation.
   - [Runway](https://runwayml.com/) - Text-to-video and image-to-video generation. Used in professional film production.
   - [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI translation and dubbing for videos.
-  - [Wan](https://github.com/Wan-Video) - Open-source video generation (Apache 2.0). Text-to-video, image-to-video, even speech-to-video for digital humans.
+  - [Wan](https://github.com/Wan-Video/Wan2.2) - Open-source video generation (Apache 2.0). Text-to-video, image-to-video, even speech-to-video for digital humans.
 - Voice
-  - [Chatterbox](https://github.com/resemble-ai/chatterbox) - Open-source TTS that outperforms ElevenLabs in blind tests. Voice cloning from 5 seconds of audio, emotion control. MIT license.
+  - [Chatterbox](https://github.com/resemble-ai/chatterbox) - Open-source TTS with voice cloning from a few seconds of audio and emotion-exaggeration control. MIT license.
   - [ElevenLabs](https://elevenlabs.io/) - AI voice generation and cloning. The quality benchmark.
   - [Fish Speech](https://github.com/fishaudio/fish-speech) - Text-to-speech with emotion control and voice cloning from short audio samples.
   - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Open-source voice cloning from just 5 seconds of audio. Supports cross-lingual inference.
@@ -202,13 +202,13 @@ _Automate parts of your workflow with AI._
   - [Whisper](https://github.com/openai/whisper) - OpenAI's speech-to-text. Runs locally, very accurate.
 - Music
   - [ACE-Step](https://github.com/ACE-Step/ACE-Step) - Open-source music generation model. Fast, multilingual, supports lyrics and voice cloning.
-  - [Suno](https://suno.com/) - Generate full songs with vocals from a text prompt. 50 free credits daily.
-  - [Udio](https://udio.com/) - AI music generation with an experimental, playful style. Free tier available.
+  - [Suno](https://suno.com/) - Generate full songs with vocals from a text prompt. Free tier with daily credits.
+  - [Udio](https://www.udio.com/) - AI music generation with an experimental, playful style. Free tier available.
 - Captions
-  - [Stable-ts](https://github.com/jianfch/stable-ts) - Improved Whisper timestamps for accurate subtitles. Exports SRT, VTT, and ASS.
   - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Open-source subtitle editor with built-in Whisper. Runs locally, 99 languages, unlimited.
+  - [WhisperX](https://github.com/m-bain/whisperX) - Word-level subtitle timestamps via forced alignment, plus speaker diarization. Exports SRT, VTT, and ASS.
 - Image & Workflows
-  - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
+  - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
 
 ## Community & Engagement
 
@@ -239,12 +239,12 @@ _Get found on YouTube and search engines._
 
 _Stay organized and ship more content._
 
-- [Airtable](https://airtable.com/) - Spreadsheet-database hybrid. Popular for content calendars and asset tracking.
+- [Airtable](https://www.airtable.com/) - Spreadsheet-database hybrid. Popular for content calendars and asset tracking.
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open-source Notion alternative with kanban boards, docs, and AI features.
-- [Celtx](https://celtx.com/) - Script writing with storyboards and production planning. Free plan available.
+- [Celtx](https://www.celtx.com/) - Script writing with storyboards and production planning. Free plan available.
 - [ClickUp](https://clickup.com/) - All-in-one project management with docs, calendars, and AI automation.
 - [Eagle](https://eagle.cool/) - Desktop app for organizing visual assets with color search and tagging. One-time purchase.
-- [Notion](https://www.notion.so/) - Docs, databases, and project management.
+- [Notion](https://www.notion.com/) - Docs, databases, and project management.
 - [Obsidian](https://obsidian.md/) - Local-first note-taking with markdown.
 - [Trello](https://trello.com/) - Visual boards for content planning.
 
