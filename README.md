@@ -125,6 +125,7 @@ _Schedule, publish, and manage content across platforms._
   - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media scheduler with a built-in design editor and AI content generation. Self-hostable Buffer alternative.
 - Cross-Posting
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
+  - [Autoposting](https://autoposting.ai) - Writes posts in your own voice, clips long video, and publishes to five networks. Plans from $10/mo.
 
 ## Analytics & Insights
 
