@@ -105,6 +105,10 @@ _Software and tools for Twitch, YouTube Live, and other platforms._
   - [Owncast](https://github.com/owncast/owncast) - Self-hosted live streaming server with built-in chat and Fediverse integration.
   - [Streamlabs](https://streamlabs.com/) - OBS fork with built-in alerts, overlays, and themes.
   - [VDO.Ninja](https://vdo.ninja/) - Bring remote guests into your stream without downloads.
+- Overlays & Graphics
+  - [NeonStreamLab](https://neonstreamlab.com/free) - Animated overlays and free stream packs for Twitch, YouTube, and Kick.
+  - [Nerd or Die](https://nerdordie.com/) - Stream overlays, alerts, and widgets with free resources.
+  - [StreamSpell](https://store.streamspell.com/) - Stream overlays, widgets, and assets with a free collection.
 - Bots & Automation
   - [Bitfocus Companion](https://github.com/bitfocus/companion) - Turn a Stream Deck into a professional broadcast controller for a wide range of AV hardware and software.
   - [Nightbot](https://nightbot.tv/) - Cloud chat bot for moderation and commands.
@@ -260,3 +264,4 @@ _Stay organized and ship more content._
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
