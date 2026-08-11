@@ -199,6 +199,7 @@ _Automate parts of your workflow with AI._
   - [Runway](https://runwayml.com/) - Text-to-video and image-to-video generation. Used in professional film production.
   - [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI translation and dubbing for videos.
   - [Wan](https://github.com/Wan-Video/Wan2.2) - Open-source video generation (Apache 2.0). Text-to-video, image-to-video, even speech-to-video for digital humans.
+  - [TalkPix.ai](https://www.talkpix.ai) - Pay-as-you-go AI video studio for talking photos, e-commerce product video ads, and text-to-video clips.
 - Voice
   - [Chatterbox](https://github.com/resemble-ai/chatterbox) - Open-source TTS with voice cloning from a few seconds of audio and emotion-exaggeration control. MIT license.
   - [ElevenLabs](https://elevenlabs.io/) - AI voice generation and cloning. The quality benchmark.
