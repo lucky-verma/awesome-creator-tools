@@ -197,6 +197,7 @@ _Automate parts of your workflow with AI._
   - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. Free tier available.
   - [Pika](https://pika.art/) - AI video generation with expression sync and audio-reactive animation.
   - [Runway](https://runwayml.com/) - Text-to-video and image-to-video generation. Used in professional film production.
+  - [videos.social](https://videos.social/?utm_source=lucky-verma-awesome-creator-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into editable faceless videos.
   - [VideoLingo](https://github.com/Huanshere/VideoLingo) - AI translation and dubbing for videos.
   - [Wan](https://github.com/Wan-Video/Wan2.2) - Open-source video generation (Apache 2.0). Text-to-video, image-to-video, even speech-to-video for digital humans.
 - Voice
