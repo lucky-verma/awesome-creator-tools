@@ -117,6 +117,7 @@ _Software and tools for Twitch, YouTube Live, and other platforms._
 _Schedule, publish, and manage content across platforms._
 
 - Scheduling
+  - [BulkPublish](https://www.bulkpublish.com/) - AI-agent API and MCP server for social publishing.
   - [Buffer](https://buffer.com/) - Simple scheduling with analytics.
   - [Later](https://later.com/) - Visual planner, strong on Instagram.
   - [Loomly](https://www.loomly.com/) - Content planning, scheduling, and analytics with team collaboration.
