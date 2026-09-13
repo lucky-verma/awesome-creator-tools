@@ -135,6 +135,7 @@ _Understand your audience and track growth._
   - [TubeBuddy](https://www.tubebuddy.com/) - Browser extension for YouTube optimization and bulk tools.
   - [VidIQ](https://vidiq.com/) - YouTube analytics, keyword research, and competitor tracking.
   - [ViewStats](https://www.viewstats.com/) - YouTube trend discovery and outlier analysis, co-founded by MrBeast.
+  - [CreatorStats](https://creatorstats.io/) - Modeled net-worth ranges plus stored YouTube, Twitch, and TikTok stats for creators, with confidence and date limits shown.
 - Web Analytics
   - [Matomo](https://github.com/matomo-org/matomo) - Self-hosted analytics with full data ownership. Google Analytics replacement.
   - [Plausible Analytics](https://github.com/plausible/analytics) - Privacy-focused, lightweight web analytics. No cookies needed.
