@@ -122,7 +122,8 @@ _Schedule, publish, and manage content across platforms._
   - [Loomly](https://www.loomly.com/) - Content planning, scheduling, and analytics with team collaboration.
   - [Metricool](https://metricool.com/) - Scheduling, analytics, and ad management across all major platforms. Free tier.
   - [Mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management. No limits, no subscriptions, you own your data.
-  - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media scheduler with a built-in design editor and AI content generation. Self-hostable Buffer alternative.
+  - [Postiz](https://github.com/gitroomhq/postiz-app)
+  - [Social Roster](https://socialroster.dev/) - Calendar-based scheduling and bulk upload for TikTok, Instagram Reels, YouTube Shorts, and Facebook videos. - Open-source social media scheduler with a built-in design editor and AI content generation. Self-hostable Buffer alternative.
 - Cross-Posting
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
 
