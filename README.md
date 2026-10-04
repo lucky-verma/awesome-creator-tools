@@ -216,6 +216,8 @@ _Automate parts of your workflow with AI._
   - [WhisperX](https://github.com/m-bain/whisperX) - Word-level subtitle timestamps via forced alignment, plus speaker diarization. Exports SRT, VTT, and ASS.
 - Image & Workflows
   - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node-based workflow editor for AI image and video generation. Supports Flux, Stable Diffusion, and video models.
+- eBooks
+  - [AI eBook Pro](https://aiebookpro.com/) - Turn one idea into a full eBook with chapters and a cover, exported as PDF, EPUB or DOCX.
 
 ## Community & Engagement
 
