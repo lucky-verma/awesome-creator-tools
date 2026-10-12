@@ -73,6 +73,7 @@ _Design tools for thumbnails, channel art, and social graphics._
 _Recording, editing, hosting, and distribution for podcasters._
 
 - Recording & Editing
+  - [Airtape](https://airtape.co/) - Browser-based remote recording studio with separate local tracks per guest.
   - [Audacity](https://www.audacityteam.org/) - Open-source audio editor. Been around forever, still works great.
   - [Descript](https://www.descript.com/) - Edit audio and video by editing text. Includes transcription, filler word removal, and overdub.
   - [Riverside](https://riverside.com/) - High-quality remote recording with separate tracks per guest.
