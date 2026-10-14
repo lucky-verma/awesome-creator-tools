@@ -124,6 +124,7 @@ _Schedule, publish, and manage content across platforms._
   - [Mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management. No limits, no subscriptions, you own your data.
   - [Postiz](https://github.com/gitroomhq/postiz-app) - Open-source social media scheduler with a built-in design editor and AI content generation. Self-hostable Buffer alternative.
 - Cross-Posting
+  - [Multi Upload Tool](https://multi-upload-tool.com/) - Schedule one video to TikTok, YouTube Shorts, Instagram Reels and more at once. Free tier.
   - [Repurpose.io](https://repurpose.io/) - Automatically publish to multiple platforms from one upload.
 
 ## Analytics & Insights
