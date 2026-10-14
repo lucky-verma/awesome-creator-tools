@@ -39,6 +39,7 @@ _Tools for recording, editing, and producing video content._
   - [MoviePy](https://github.com/Zulko/moviepy) - Python library for video editing and compositing.
   - [Remotion](https://github.com/remotion-dev/remotion) - Create videos programmatically using React. Popular for automated YouTube content.
 - Browser-Based
+  - [Burncaps](https://burncaps.app/) - Burns word-by-word captions into talking videos in the browser, without uploading the video.
   - [Clipchamp](https://clipchamp.com/) - Microsoft's browser editor with stock assets and templates.
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
   - [OpenCut](https://github.com/OpenCut-app/OpenCut) - Open-source browser-based editor. Files never leave your machine.
