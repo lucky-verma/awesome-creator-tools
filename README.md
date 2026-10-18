@@ -118,6 +118,7 @@ _Schedule, publish, and manage content across platforms._
 
 - Scheduling
   - [Buffer](https://buffer.com/) - Simple scheduling with analytics.
+  - [JuzPost](https://www.juzpost.com/) - Schedule posts to YouTube, TikTok, Instagram and more, or by asking Claude. Free tier.
   - [Later](https://later.com/) - Visual planner, strong on Instagram.
   - [Loomly](https://www.loomly.com/) - Content planning, scheduling, and analytics with team collaboration.
   - [Metricool](https://metricool.com/) - Scheduling, analytics, and ad management across all major platforms. Free tier.
