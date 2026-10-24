@@ -55,6 +55,7 @@ _Design tools for thumbnails, channel art, and social graphics._
 - [ClipDrop](https://clipdrop.co/) - AI image editing suite with background removal, cleanup, relighting, and uncrop.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Hand-drawn style whiteboard for diagrams and explainer visuals. Runs in the browser.
 - [Figma](https://www.figma.com/) - Professional design tool, free for individuals.
+- - [Free Thumbnail Preview](https://freethumbnailpreview.com/) - Free, client-side YouTube thumbnail previewer, A/B tester, and timestamp safe-zone radar with zero server uploads. ([Source Code](https://github.com/chandgg529-collab/freethumbnailpreview))
 - [GIMP](https://www.gimp.org/) - Open-source image editor with professional features.
 - [Photopea](https://www.photopea.com/) - Free Photoshop alternative that runs in browser. No account needed.
 - [rembg](https://github.com/danielgatis/rembg) - Local background removal from the command line or Python. No upload, no per-image cost.
