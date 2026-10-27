@@ -132,6 +132,7 @@ _Understand your audience and track growth._
 
 - Creator Analytics
   - [Social Blade](https://socialblade.com/) - Public stats for any YouTube, Twitch, or Instagram account.
+  - [TKMetrics TikTok Money Calculator](https://tkmetrics.com/tiktok-money-calculator/) - Estimates monthly TikTok Creator Rewards and a sponsored-video rate from a username or your own numbers.
   - [TubeBuddy](https://www.tubebuddy.com/) - Browser extension for YouTube optimization and bulk tools.
   - [VidIQ](https://vidiq.com/) - YouTube analytics, keyword research, and competitor tracking.
   - [ViewStats](https://www.viewstats.com/) - YouTube trend discovery and outlier analysis, co-founded by MrBeast.
