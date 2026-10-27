@@ -25,6 +25,7 @@ Whether you're just starting out or scaling your content business, these tools c
 _Tools for recording, editing, and producing video content._
 
 - Desktop Editors
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
   - [CapCut](https://www.capcut.com/) - Free editor from ByteDance with AI captions, templates, and effects. Dominant among short-form creators.
   - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional editing, color grading, and effects. Free version is genuinely powerful.
   - [HandBrake](https://handbrake.fr/) - Open-source video transcoder. Compress finished exports before upload without a visible quality drop.
