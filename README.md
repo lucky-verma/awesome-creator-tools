@@ -94,6 +94,7 @@ _Recording, editing, hosting, and distribution for podcasters._
   - [Auphonic](https://auphonic.com/) - Automatic leveling and loudness normalization.
   - [Spleeter](https://github.com/deezer/spleeter) - Deezer's audio stem separator. Splits songs into vocals, drums, bass, and more.
   - [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) - Isolate vocals from music using deep learning. Desktop GUI included.
+  - [Video Noise Remover](https://videonoiseremover.com/) - Removes background noise from speech in videos. Free tier runs in the browser without sign-up.
 
 ## Live Streaming
 
