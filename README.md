@@ -42,6 +42,7 @@ _Tools for recording, editing, and producing video content._
   - [Clipchamp](https://clipchamp.com/) - Microsoft's browser editor with stock assets and templates.
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
   - [OpenCut](https://github.com/OpenCut-app/OpenCut) - Open-source browser-based editor. Files never leave your machine.
+  - [Text Match Cut](https://textmatchcut.net/) - Free online text match cut video maker.
   - [VEED.io](https://www.veed.io/) - Browser-based editor with auto-subtitles, AI avatars, and team collaboration.
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
