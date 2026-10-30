@@ -52,6 +52,7 @@ _Tools for recording, editing, and producing video content._
 _Design tools for thumbnails, channel art, and social graphics._
 
 - [Canva](https://www.canva.com/) - Template-based design with YouTube thumbnail presets.
+- [EasySociable](https://easysociable.com/?utm_source=awesome-creator-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent; branded multi-page carousels for TikTok, Instagram & LinkedIn. Free plan.
 - [ClipDrop](https://clipdrop.co/) - AI image editing suite with background removal, cleanup, relighting, and uncrop.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Hand-drawn style whiteboard for diagrams and explainer visuals. Runs in the browser.
 - [Figma](https://www.figma.com/) - Professional design tool, free for individuals.
