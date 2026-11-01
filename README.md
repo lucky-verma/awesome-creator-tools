@@ -133,6 +133,7 @@ _Understand your audience and track growth._
 - Creator Analytics
   - [Social Blade](https://socialblade.com/) - Public stats for any YouTube, Twitch, or Instagram account.
   - [TubeBuddy](https://www.tubebuddy.com/) - Browser extension for YouTube optimization and bulk tools.
+  - [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) - Free Instagram engagement rate check for any public account.
   - [VidIQ](https://vidiq.com/) - YouTube analytics, keyword research, and competitor tracking.
   - [ViewStats](https://www.viewstats.com/) - YouTube trend discovery and outlier analysis, co-founded by MrBeast.
 - Web Analytics
