@@ -192,6 +192,7 @@ _Build an audience you own._
 _Automate parts of your workflow with AI._
 
 - Video
+  - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Open-source app that turns long videos and streams into captioned vertical clips on your own PC.
   - [HeyGen](https://www.heygen.com/) - AI avatar videos and video translation with lip-sync dubbing.
   - [Kling AI](https://kling.ai/) - Text-to-video with camera movement control, lip sync, and motion effects. Daily free credits.
   - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. Free tier available.
