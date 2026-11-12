@@ -53,6 +53,7 @@ _Design tools for thumbnails, channel art, and social graphics._
 
 - [Canva](https://www.canva.com/) - Template-based design with YouTube thumbnail presets.
 - [ClipDrop](https://clipdrop.co/) - AI image editing suite with background removal, cleanup, relighting, and uncrop.
+- [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free background remover that runs in the browser with no upload or signup; handy for clean thumbnail and cover cutouts.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Hand-drawn style whiteboard for diagrams and explainer visuals. Runs in the browser.
 - [Figma](https://www.figma.com/) - Professional design tool, free for individuals.
 - [GIMP](https://www.gimp.org/) - Open-source image editor with professional features.
