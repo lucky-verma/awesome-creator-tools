@@ -192,6 +192,7 @@ _Build an audience you own._
 _Automate parts of your workflow with AI._
 
 - Video
+  - [Beav](https://beav.pro/) - 小红书图文与数字人口播，支持素材库和字幕剪辑。 RedNote post kits, talking avatars, and video editing.
   - [HeyGen](https://www.heygen.com/) - AI avatar videos and video translation with lip-sync dubbing.
   - [Kling AI](https://kling.ai/) - Text-to-video with camera movement control, lip sync, and motion effects. Daily free credits.
   - [Opus Clip](https://www.opus.pro/) - Turns long videos into short clips with AI highlight detection and virality scoring. Free tier available.
