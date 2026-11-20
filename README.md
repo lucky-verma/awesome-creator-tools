@@ -43,6 +43,7 @@ _Tools for recording, editing, and producing video content._
   - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with AI features.
   - [OpenCut](https://github.com/OpenCut-app/OpenCut) - Open-source browser-based editor. Files never leave your machine.
   - [VEED.io](https://www.veed.io/) - Browser-based editor with auto-subtitles, AI avatars, and team collaboration.
+  - [Vidmoat](https://www.vidmoat.com/) - Hosted AI video editor: describe the edit in chat, review it on a real timeline, render MP4. Free plan.
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
   - [ShareX](https://github.com/ShareX/ShareX) - Windows screen capture and recording with annotation, workflows, and upload automation.
