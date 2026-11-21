@@ -212,6 +212,7 @@ _Automate parts of your workflow with AI._
   - [Suno](https://suno.com/) - Generate full songs with vocals from a text prompt. Free tier with daily credits.
   - [Udio](https://www.udio.com/) - AI music generation with an experimental, playful style. Free tier available.
 - Captions
+  - [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Turns a YouTube video's captions into a timestamped transcript with SRT/VTT export and AI summaries.
   - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Open-source subtitle editor with built-in Whisper. Runs locally, 99 languages, unlimited.
   - [WhisperX](https://github.com/m-bain/whisperX) - Word-level subtitle timestamps via forced alignment, plus speaker diarization. Exports SRT, VTT, and ASS.
 - Image & Workflows
