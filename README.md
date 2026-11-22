@@ -59,6 +59,7 @@ _Design tools for thumbnails, channel art, and social graphics._
 - [Photopea](https://www.photopea.com/) - Free Photoshop alternative that runs in browser. No account needed.
 - [rembg](https://github.com/danielgatis/rembg) - Local background removal from the command line or Python. No upload, no per-image cost.
 - [Remove.bg](https://www.remove.bg/) - AI background removal for thumbnails.
+- [TinyTools Background Blur](https://tomaserben.com/free-tools/background-blur) - Free in-browser background blur that keeps talking-head thumbnails sharp; no signup, photos never leave the device.
 - [Unsplash](https://unsplash.com/) - Beautiful free stock photos, no attribution required.
 - [Upscayl](https://github.com/upscayl/upscayl) - AI image upscaler that runs locally. Rescues low-resolution stills for thumbnails.
 - AI Image Generation
