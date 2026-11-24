@@ -238,6 +238,7 @@ _Get found on YouTube and search engines._
 - [Exploding Topics](https://explodingtopics.com/) - Discover trending topics and niches before they go mainstream.
 - [Google Trends](https://trends.google.com/) - Compare search interest over time. Has a YouTube-specific filter.
 - [Keyword Tool](https://keywordtool.io/) - Keyword research for YouTube, Google, and more.
+- [NicheCue](https://facelessyoutubeniches.com/) - Free faceless YouTube niche explorer with B-roll cues and timestamp-cited script outlines.
 - [RapidTags](https://rapidtags.io/) - Generate optimized YouTube tags from a video title or keyword.
 - [Semrush](https://www.semrush.com/) - Comprehensive keyword research, backlink analysis, and competitive SEO.
 - [Surfer SEO](https://surferseo.com/) - Real-time content scoring and optimization for search rankings.
