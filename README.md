@@ -139,6 +139,7 @@ _Understand your audience and track growth._
   - [Matomo](https://github.com/matomo-org/matomo) - Self-hosted analytics with full data ownership. Google Analytics replacement.
   - [Plausible Analytics](https://github.com/plausible/analytics) - Privacy-focused, lightweight web analytics. No cookies needed.
   - [Umami](https://github.com/umami-software/umami) - Simple self-hosted web analytics. A modern Google Analytics alternative.
+  - [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 ## Monetization
 
