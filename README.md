@@ -46,6 +46,7 @@ _Tools for recording, editing, and producing video content._
 - Screen Recording
   - [Cap](https://github.com/CapSoftware/Cap) - Open-source Loom alternative for recording, editing, and sharing videos. Self-hostable.
   - [ShareX](https://github.com/ShareX/ShareX) - Windows screen capture and recording with annotation, workflows, and upload automation.
+  - [Vertov](https://vertov.app/) - Browser screen recorder with transcript editing, captions, and MP4 export.
 
 ## Thumbnail & Graphics
 
