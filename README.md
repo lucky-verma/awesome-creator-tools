@@ -61,6 +61,7 @@ _Design tools for thumbnails, channel art, and social graphics._
 - [Remove.bg](https://www.remove.bg/) - AI background removal for thumbnails.
 - [Unsplash](https://unsplash.com/) - Beautiful free stock photos, no attribution required.
 - [Upscayl](https://github.com/upscayl/upscayl) - AI image upscaler that runs locally. Rescues low-resolution stills for thumbnails.
+- [YouTube Thumbnail Tester](https://youtubethumbnailtester.com/) - Free browser tool to preview how your YouTube thumbnail and title look in feed and mobile layouts before publishing.
 - AI Image Generation
   - [Adobe Firefly](https://firefly.adobe.com/) - AI image generator trained on licensed content. Built into Photoshop.
   - [FLUX](https://github.com/black-forest-labs/flux) - Open-weight AI image models from the original Stable Diffusion team. Run locally for free.
@@ -241,6 +242,7 @@ _Get found on YouTube and search engines._
 - [RapidTags](https://rapidtags.io/) - Generate optimized YouTube tags from a video title or keyword.
 - [Semrush](https://www.semrush.com/) - Comprehensive keyword research, backlink analysis, and competitive SEO.
 - [Surfer SEO](https://surferseo.com/) - Real-time content scoring and optimization for search rankings.
+- [YouTube Description Generator](https://youtubedescriptiongenerator.com/) - Free browser tool to draft structured YouTube descriptions, timestamps, and keyword summaries.
 
 ## Productivity
 
